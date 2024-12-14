@@ -1,0 +1,14 @@
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\bin\Debug\net9.0\Torneo.exe
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\bin\Debug\net9.0\Torneo.deps.json
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\bin\Debug\net9.0\Torneo.runtimeconfig.json
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\bin\Debug\net9.0\Torneo.dll
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\bin\Debug\net9.0\Torneo.pdb
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.AssemblyInfoInputs.cache
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.AssemblyInfo.cs
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.csproj.CoreCompileInputs.cache
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.dll
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\refint\Torneo.dll
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.pdb
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\Torneo.genruntimeconfig.cache
+C:\Users\Raúl\RiderProjects\Torneo\Torneo\obj\Debug\net9.0\ref\Torneo.dll
